@@ -1,0 +1,21 @@
+Feature,Data_Type
+ApplicantIncome,int64
+CoapplicantIncome,float64
+LoanAmount,float64
+Loan_Amount_Term,float64
+Credit_History,float64
+TotalIncome,float64
+TotalIncomeLog,float64
+LoanAmountLog,float64
+LoanIncomeRatio,float64
+DependentsNumeric,float64
+IncomePerDependent,float64
+Gender_Male,int64
+Married_Yes,int64
+Dependents_1,int64
+Dependents_2,int64
+Dependents_3+,int64
+Education_Not Graduate,int64
+Self_Employed_Yes,int64
+Property_Area_Semiurban,int64
+Property_Area_Urban,int64

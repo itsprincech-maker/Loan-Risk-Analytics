@@ -1,0 +1,14 @@
+Column,Data_Type,Missing_Values,Missing_Percentage,Unique_Values
+Loan_ID,str,0,0.0,614
+Gender,str,13,2.12,2
+Married,str,3,0.49,2
+Dependents,str,15,2.44,4
+Education,str,0,0.0,2
+Self_Employed,str,32,5.21,2
+ApplicantIncome,int64,0,0.0,505
+CoapplicantIncome,float64,0,0.0,287
+LoanAmount,float64,22,3.58,203
+Loan_Amount_Term,float64,14,2.28,10
+Credit_History,float64,50,8.14,2
+Property_Area,str,0,0.0,3
+Loan_Status,str,0,0.0,2
