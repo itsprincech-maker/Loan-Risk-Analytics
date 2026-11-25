@@ -350,6 +350,23 @@ models/final\_loan\_model.pkl
 
 \---
 
+---
+
+## 📸 Dashboard Screenshots
+
+### 1. Overview Dashboard
+![Overview Dashboard](ss/overview.png)
+
+### 2. Business Analysis
+![Business Analysis](ss/business_analysis.png)
+
+### 3. Loan Prediction
+![Loan Prediction](ss/loan_prediction.png)
+
+### 4. Model Performance
+![Model Performance](ss/model_performance.png)
+
+---
 
 
 \## 📁 Project Structure
